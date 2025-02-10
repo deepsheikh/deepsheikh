@@ -25,8 +25,8 @@
 ডিপশেখ কে তৈরি করা হয়েছে বিনোদনের জন্য। তার উদ্দেশ্য হলো ব্যবহারকারীদেরকে বিনোদন প্রদান করা।
 
 ## Credits
-- **Logo:** [Shahriar Zaman Siham](https://facebook.com/shahriar.siham)
-- **Idea:** [Shakib H.](https://github.com/shakib-h)
+- **Idea:** [Shakib H.](https://lhub.top/ds-idacret)
+- **Logo:** [Shahriar Zaman Siham](https://lhub.top/ds-lcret)
 
 ## Contact
 - **Email:** hello@deepsheikh.com
